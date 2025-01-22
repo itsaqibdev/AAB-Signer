@@ -43,3 +43,42 @@ A simple, cross-platform GUI application for signing Android App Bundles (AAB) u
 - Make sure Java is properly installed on your system
 - Keep your keystore and passwords secure
 - The signed AAB will be created in the location you specify
+
+## About Developer
+
+<p align="center">
+  <h3 align="center">Muhammad Saqib</h3>
+  <p align="center">Professional Software Developer</p>
+</p>
+
+I am Muhammad Saqib, a 24-year-old passionate programmer with expertise in various programming languages. As a professional Software Developer on Fiverr, I specialize in creating efficient and user-friendly applications.
+
+### Connect With Me
+
+<p align="center">
+  <a href="https://fiverr.com/itsaqibdev" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="fiverr itsaqib"/>
+  </a>
+  <a href="https://github.com/itsaqibdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://pk.linkedin.com/in/muhammad-saqib-792985226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Support
+
+If you like this project, please consider:
+- ⭐ Starring the repository
+- 🐛 Reporting bugs
+- 🌟 Sharing with your friends
+
+---
+<p align="center">
+  Made with ❤️ by <a href="https://fiverr.com/itsaqibdev">itsaqibdev</a>
+</p>
