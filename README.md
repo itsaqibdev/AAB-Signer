@@ -1,7 +1,7 @@
 # AAB Signer
 
 <p align="center">
-  <img src="src/main/resources/logo.webp" alt="AAB Signer Logo" width="150"/>
+  <img src="https://raw.githubusercontent.com/itsaqibdev/AAB-Signer/refs/heads/main/logo.webp" alt="AAB Signer Logo" width="150"/>
 </p>
 
 A simple, cross-platform GUI application for signing Android App Bundles (AAB) using Java.
